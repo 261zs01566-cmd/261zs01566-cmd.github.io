@@ -78,3 +78,6 @@ th, td {
 .dark {
   filter: invert(1);
 }
+.dark img {
+  filter: invert(1); /* 反転を打ち消す */
+}
